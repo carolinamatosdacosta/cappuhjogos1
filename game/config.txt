@@ -1,0 +1,8 @@
+Game_name:cappuhnovelmeme;
+Game_key:15429d7f7168da1;
+Title_img:spirit-map.png;
+Title_bgm:Spirit Blossom Yone - Spirit Bonds_ Champion Theme  League of Legends.mp3;
+Textbox_theme:imss;
+Description:visuanovel;
+Package_name:cappuhgames;
+Game_Logo:Lillia-tease-art-1024x576-1.webp;
